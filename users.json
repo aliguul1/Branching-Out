@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alice Smith",
+    "age": 25,
+    "email": "alice.smith@example.com"
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 40,
+    "email": "bjohnson@workmail.com"
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 19,
+    "email": "charlie@snoopy.com"
+  },
+  {
+    "name": "Alice Wonderland",
+    "age": 30,
+    "email": "rabbit_hole@tea-party.org"
+  },
+  {
+    "name": "David Miller",
+    "age": 22,
+    "email": "dmiller@gmail.com"
+  },
+  {
+    "name": "Eve Adams",
+    "age": 45,
+    "email": "eve.a@corporate.net"
+  },
+  {
+    "name": "Frank Castle",
+    "age": 50,
+    "email": "punisher@justice.com"
+  },
+  {
+    "name": "Grace Hopper",
+    "age": 80,
+    "email": "grace.hopper@navy.mil"
+  },
+  {
+    "name": "Hank Pym",
+    "age": 60,
+    "email": "antman@avengers.org"
+  },
+  {
+    "name": "Ivy Poison",
+    "age": 28,
+    "email": "ivy@gotham.city"
+  },
+  {
+    "name": "Jack Sparrow",
+    "age": 38,
+    "email": "captain@blackpearl.sea"
+  },
+  {
+    "name": "Karl Marx",
+    "age": 65,
+    "email": "karl.m@history.de"
+  }
+]
